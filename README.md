@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Yosef Shaban! 👋
 
-<!--
-**yosef1572006-ops/yosef1572006-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate *Software Engineering Student & C++ Developer* focused on building strong programming fundamentals, problem-solving, and clean code architecture.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On:
+- Mastering *C++* & *Functional Programming* principles.
+- Solving algorithmic challenges and building console applications.
+- Building my software engineering portfolio step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 📊 GitHub Stats:
+![Yosef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosef1572006-ops&show_icons=true&theme=radical)
