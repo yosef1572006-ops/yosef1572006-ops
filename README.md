@@ -15,3 +15,5 @@ I'm a passionate *Software Engineering Student & C++ Developer* focused on build
 
 ### 📊 GitHub Stats:
 ![Yosef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosef1572006-ops&show_icons=true&theme=radical)
+
+💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/yosef-shaban-185a23402/)**
